@@ -6,8 +6,8 @@
 ## Содержание
  - **eda-ubc-ocean.ipynb** Исследовательский анализ данных
  - **patches-ubc-ocean-crop-image.ipynb** Обработка изображений, аугментация и разделение на патчи
- - **eda-ubc-ocean.ipynb** Обучение с использованием GeM-pooling и tf_efficientnet
- - **eda-ubc-ocean.ipynb** Обучение с использованием VGG16 с добавлением в архитектуру AttentionBlock
+ - **patches-ubc-ocean-work.ipynb** Обучение с использованием GeM-pooling и tf_efficientnet
+ - **classification-with-attention-ubc-ocean-work.ipynb** Обучение с использованием VGG16 с добавлением в архитектуру AttentionBlock
 
 ## Результат
 На тестовых выборках включающих в себя примерно равные значения WSI и TMA удалось достичь приемлемой точности.
